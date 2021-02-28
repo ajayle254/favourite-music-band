@@ -11,11 +11,13 @@ ul{
     font-style: initial;
     width: 550px;
     height: 150px;
+    align-items: center;
     
 }
 li{
     font-family: sans-serif;
     font-style: italic;
+    align-items: center;
 }
 head{
     text-align: center;
